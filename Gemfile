@@ -28,7 +28,7 @@ group :development do
 end
 
 group :development, :test do
-  gem 'pry'
+  gem 'byebug'
 end
 
 group :production do
